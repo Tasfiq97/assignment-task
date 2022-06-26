@@ -12,8 +12,6 @@ const useProducts = () =>{
             setFilterProducts(data)
         });
     }, []);
-    //helelo
-
     return [products, setProducts,filterProducts,setFilterProducts];
 }
 

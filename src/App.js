@@ -12,7 +12,7 @@ import SignUp from './components/SignUp/SignUp';
 
 function App() {
 
-    //helelo
+    //routin pages
   return (
     <div className='app'>
       <Header></Header>
